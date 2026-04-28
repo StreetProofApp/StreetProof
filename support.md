@@ -29,7 +29,7 @@ Pins are flexible markers you can drop anywhere on the map. There are two colors
 To add or edit pins, go to Settings → Map Options and tap "Add/Edit Pins." This brings you back to the map in pin-editing mode. The dropdown at the top lets you switch between red and yellow before placing a pin. Tap an existing pin to delete it, or tap and hold to drag it to a new location. Tap the X to exit pin-editing mode.
 
 **How does the app decide what activity type to save (run, walk, or ride)?**
-The activity type is set in Settings → Workout Options. The default is run; whatever you have selected there is what every new workout will be saved as.
+The default activity type is Run. This can be changed to Walk or Ride in in Settings → Workout Options. Whatever you have selected there is what every new workout will be recorded as.
 
 **My workout finished but the route isn't showing in Apple Fitness yet. What's going on?**
 Route syncing sometimes takes a few minutes, especially after a Watch-only workout — give it time before assuming something's wrong. Don't delete the workout from Apple Fitness just because the route is missing. If the route still hasn't appeared after a while, make sure your Apple Watch is near your iPhone (for Watch-only workouts), open both StreetProof and the StreetProof Watch app, and try the Route Recovery tool in Settings → Support. If those don't work, restarting both devices usually does the trick.
